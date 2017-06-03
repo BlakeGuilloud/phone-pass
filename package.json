@@ -29,5 +29,9 @@
     "mocha": "3.0.1",
     "nodemon": "1.11.0"
   },
-  "homepage": "https://github.com/BlakeGuilloud/phone-pass#readme"
+  "homepage": "https://github.com/BlakeGuilloud/phone-pass#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "node-bandwidth": "^2.3.2"
+  }
 }
